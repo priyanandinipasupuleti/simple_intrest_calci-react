@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple_intrest_calci-react/static/css/main.6822fc6d.css",
+    "main.js": "/simple_intrest_calci-react/static/js/main.e427f187.js",
+    "index.html": "/simple_intrest_calci-react/index.html",
+    "main.6822fc6d.css.map": "/simple_intrest_calci-react/static/css/main.6822fc6d.css.map",
+    "main.e427f187.js.map": "/simple_intrest_calci-react/static/js/main.e427f187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6822fc6d.css",
+    "static/js/main.e427f187.js"
+  ]
+}
